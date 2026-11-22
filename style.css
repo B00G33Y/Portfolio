@@ -37,3 +37,20 @@
   border: 2px solid #2563eb;
 }
 
+section{
+    padding: 3rem 1rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+section h2{
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.about p{
+    max-width: 650px;
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
