@@ -27,3 +27,7 @@ projectsGrid.innerHTML = projects
     </article>
   `)
   .join("");
+
+
+  document.getElementById("year").textContent= new Date().getFullYear();
+  
